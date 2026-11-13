@@ -1,0 +1,31 @@
+<svg width="800" height="235" viewBox="0 0 800 235" xmlns="http://www.w3.org/2000/svg">
+  <!-- GBA Outer Bezel (Classic Indigo Shell) -->
+  <rect x="0" y="0" width="800" height="235" rx="16" fill="#4b3f72" />
+  <rect x="6" y="6" width="788" height="223" rx="12" fill="#2d2645" />
+  
+  <!-- Screen Bezel & Power LED -->
+  <circle cx="24" cy="42" r="5" fill="#00ff66" />
+  <text x="12" y="58" fill="#a89cc8" font-family="monospace" font-size="9" font-weight="bold">POWER</text>
+  <text x="325" y="22" fill="#a89cc8" font-family="monospace" font-size="11" font-weight="bold" letter-spacing="2">GAME BOY ADVANCE</text>
+
+  <!-- Inner LCD Screen (Emerald Palette matching your banner) -->
+  <rect x="48" y="30" width="704" height="186" rx="4" fill="#0d1f17" stroke="#183829" stroke-width="3" />
+
+  <!-- Trainer Card Window Box -->
+  <rect x="62" y="42" width="676" height="110" rx="4" fill="#132e22" stroke="#36c879" stroke-width="2" />
+  
+  <!-- Header Row -->
+  <text x="78" y="66" fill="#36c879" font-family="monospace" font-size="15" font-weight="bold">TRAINER CARD // CHABSS</text>
+  <text x="545" y="66" fill="#ffd166" font-family="monospace" font-size="13" font-weight="bold">STATUS: ONLINE</text>
+  <line x1="78" y1="75" x2="720" y2="75" stroke="#24543e" stroke-width="2" />
+
+  <!-- Stats Rows -->
+  <text x="78" y="97" fill="#e0f2e9" font-family="monospace" font-size="13"><tspan fill="#7ae582" font-weight="bold">CLASS:</tspan>   Game Dev & Full-Stack Programmer</text>
+  <text x="78" y="117" fill="#e0f2e9" font-family="monospace" font-size="13"><tspan fill="#7ae582" font-weight="bold">ENGINE:</tspan>  Godot / Unity   |   <tspan fill="#7ae582" font-weight="bold">LOC:</tspan> Philippines</text>
+  <text x="78" y="137" fill="#e0f2e9" font-family="monospace" font-size="13"><tspan fill="#7ae582" font-weight="bold">SKILL:</tspan>   Passive — Learning by building things</text>
+
+  <!-- GBA RPG Dialogue Box at Bottom -->
+  <rect x="62" y="160" width="676" height="46" rx="4" fill="#091711" stroke="#ffd166" stroke-width="2" />
+  <text x="78" y="180" fill="#ffffff" font-family="monospace" font-size="12">▶ CURRENT QUEST: Building a Philippine-inspired spider-catching RPG</text>
+  <text x="94" y="197" fill="#a3d9b8" font-family="monospace" font-size="12">and leveling up C# game architecture! ▼</text>
+</svg>
