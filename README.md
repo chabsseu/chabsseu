@@ -9,6 +9,13 @@
 
 <br />
 
+<!-- GBA Trainer Card Screen -->
+<div align="center">
+  <img src="assets/gba-status.svg" width="100%" alt="GBA Trainer Card" />
+</div>
+
+<br />
+
 ### 🎒 INVENTORY (THE ARSENAL)
 
 **`[GAME DEV]`** &nbsp;
@@ -39,17 +46,6 @@
 | **🧙 Stauffs & Magic** | 2D action-RPG project built in Godot. | [Repository](https://github.com/chabsseu/Stauffs-and-Magic) | `PAUSE` |
 | **🧩 Pixelatedd** | Completed pixel-style puzzle game playable right in your browser. | [Play on itch.io](https://liufyx.itch.io/pixelatedd) | `COMPLETED` |
 | **▶️ GameDevChabss** | Devlogs, prototypes, and game development updates. | [YouTube Channel](https://www.youtube.com/@GameDevChabss) | `ONGOING` |
-
----
-
-### 📊 SYSTEM DIAGNOSTICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chabsseu&show_icons=true&bg_color=0d1f17&title_color=36c879&text_color=e0f2e9&icon_color=ffd166&border_color=36c879&border_radius=6&hide_border=false&custom_title=PLAYER%20COMBAT%20STATS" alt="Chabss GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chabsseu&layout=compact&bg_color=0d1f17&title_color=36c879&text_color=e0f2e9&border_color=36c879&border_radius=6&hide_border=false&custom_title=EQUIPPED%20LANGUAGES" alt="Top Languages" height="170" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=chabsseu&background=0d1f17&border=36c879&stroke=24543e&ring=36c879&fire=ffd166&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=36c879&sideLabels=ffd166&dates=a3d9b8&border_radius=6" alt="GitHub Streak" />
-</div>
 
 ---
 
