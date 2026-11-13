@@ -11,7 +11,7 @@
 
 <!-- GBA Trainer Card Screen -->
 <div align="center">
-  <img src="assets/gba-status.svg" width="100%" alt="GBA Trainer Card" />
+  <img src="assets/gba-status.png" width="100%" alt="GBA Trainer Card" />
 </div>
 
 <br />
