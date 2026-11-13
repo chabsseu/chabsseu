@@ -9,13 +9,6 @@
 
 <br />
 
-<!-- GBA Trainer Card Screen -->
-<div align="center">
-  <img src="assets/gba-status.png" width="100%" alt="GBA Trainer Card" />
-</div>
-
-<br />
-
 ### 🎒 INVENTORY (THE ARSENAL)
 
 **`[GAME DEV]`** &nbsp;
